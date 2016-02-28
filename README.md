@@ -1,5 +1,7 @@
 # COBOL-Mandelbrot-Set-generator
-A Mandelbrot Set generator written in COBOL using node-cobol bridge to show in web browser
+A Mandelbrot Set generator written in COBOL using node-cobol bridge to show in web browser.
+
+![Title](https://raw.githubusercontent.com/mikebharris/COBOL-Mandelbrot-Set-generator/master/screenshot.png)
 
 I am forever experimenting with different programming languages using the algorithm to generate Benôit Mandelbrot's set as an example
 for me to learn.  Here is a generator for the set written in COBOL with simple character output.
@@ -12,7 +14,7 @@ The COBOL code was written using the excellent OpenCobol IDE - https://github.co
 
 To get it to work you'll need to install GNU COBOL, Node.js and the node-cobol bridge, then from the command line do:
 
-$ node mandelbrot.js
+`$ node mandelbrot.js`
 
 And then visit http://localhost:8080 in your browser. 
 
