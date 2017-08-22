@@ -18,4 +18,4 @@ To get it to work you'll need to install GNU COBOL, Node.js and the node-cobol b
 
 And then visit http://localhost:8080 in your browser. 
 
-The output is very reminiscent of the original images Mandelbrot might have seen on his IBM printer back in the 1970s.
+The output is very reminiscent of the original images Benoît Mandelbrot might have seen on his IBM printer back in the 1970s.
